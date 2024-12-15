@@ -1,5 +1,3 @@
-
-### **README for Assignment 3: HTTP Web Server**
 # HTTP Web Server
 
 ## Overview
