@@ -1,6 +1,5 @@
 
 ### **README for Assignment 3: HTTP Web Server**
-```markdown
 # HTTP Web Server
 
 ## Overview
