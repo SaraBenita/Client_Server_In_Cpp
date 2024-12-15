@@ -41,7 +41,7 @@ This project implements a UDP-based client-server application that supports vari
 1. Start the server:
    ```bash
    ./server
-2.Run the client:
+2. Run the client:
 bash
 ./client
 3. Follow the client menu to send requests to the server.
