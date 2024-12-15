@@ -38,17 +38,13 @@ This project implements a UDP-based client-server application that supports vari
 - Support for **city-based time zones** with predefined offsets and default handling for unsupported cities.
 
 ## How to Run
-1. Start the server:
-   ```bash
-   ./server
-2. Run the client:
-bash
-./client
+1. Start the server: ./server
+2. Run the client: ./client
 3. Follow the client menu to send requests to the server.
 
 ## Testing Tools
 Wireshark: Used to capture and analyze UDP packets for debugging and verification.
 
 ## Files
-server.cpp: Implements the UDP server, request handling, and responses.
-client.cpp: Implements the menu-driven client for interacting with the server.
+- server.cpp: Implements the UDP server, request handling, and responses.
+- client.cpp: Implements the menu-driven client for interacting with the server.
