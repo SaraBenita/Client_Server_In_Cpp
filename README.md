@@ -37,4 +37,3 @@ Feel free to explore the respective folders for each assignment and dive into th
 - Networking: UDP sockets, non-blocking sockets.
 - Protocols: HTTP/1.1, Custom UDP protocol for time services.
 - Testing: Wireshark, Postman for testing requests and responses.
-- 
