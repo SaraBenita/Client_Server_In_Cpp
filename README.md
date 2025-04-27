@@ -24,7 +24,7 @@ This project implements a basic HTTP server that adheres to HTTP/1.1 specificati
 ## What Can Be Found in This Repository
 - **Source Code**: The full implementation of the UDP client-server and HTTP web server.
 - **README Files**: Detailed explanations for each assignment with setup and execution instructions.
-- 
+  
 Feel free to explore the respective folders for each assignment and dive into the source code to see how each task was implemented.
 
 ## How to Use
